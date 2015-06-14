@@ -8,7 +8,6 @@
 
 	<properties>
 		<spring.version>4.0.5.RELEASE</spring.version>
-		<spring-data-jpa.version>1.6.0.RELEASE</spring-data-jpa.version>
 	</properties>
 
 	<dependencies>
